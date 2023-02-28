@@ -6,6 +6,7 @@ import data.Product;
 
 import java.util.List;
 
+
 public interface IMachinesFasade<M extends Machine,P extends Product> {
     void addMachines(int count);
     void loadToys();

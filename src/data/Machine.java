@@ -5,6 +5,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Objects;
 
+
 public class Machine<P extends Product> {
 
     private long id;

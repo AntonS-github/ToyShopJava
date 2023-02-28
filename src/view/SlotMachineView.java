@@ -5,6 +5,7 @@ import data.Product;
 
 import java.util.List;
 
+
 public class SlotMachineView {
 
     public void printMessage(String mes) {

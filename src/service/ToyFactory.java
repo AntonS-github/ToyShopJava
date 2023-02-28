@@ -4,6 +4,7 @@ import data.Toy;
 
 import java.util.*;
 
+
 public class ToyFactory {
     private static Map<ToyType,Integer> toyWeight;
     private List<Toy> list = new ArrayList<>();

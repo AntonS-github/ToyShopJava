@@ -6,6 +6,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.charset.Charset;
 
+
 public class UtilTxt {
     public static String read(String fileName){
         try (BufferedReader bufferedReader = new BufferedReader(new FileReader(fileName))) {

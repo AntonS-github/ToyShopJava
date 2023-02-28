@@ -9,6 +9,7 @@ import util.UtilTxt;
 import java.util.List;
 import java.util.Random;
 
+
 public class SlotMachinesFasade implements IMachinesFasade {
     private MachineService machineService = new MachineService();
     private ToyFactory toyFactory = new ToyFactory();

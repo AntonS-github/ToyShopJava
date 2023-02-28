@@ -7,6 +7,7 @@ import view.SlotMachineView;
 import java.util.Arrays;
 import java.util.Scanner;
 
+
 public class Controller {
     static Scanner scanner = new Scanner(System.in);
     private SlotMachineView slotMachineView = new SlotMachineView();

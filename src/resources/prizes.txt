@@ -2,3 +2,4 @@ Machine ID:1 Toy Toy{id=1, name='Car', weight=300}
 Machine ID:1 Toy Toy{id=2, name='Robot', weight=350}
 Machine ID:3 Toy Toy{id=24, name='Doll', weight=250}
 Machine ID:2 Toy Toy{id=20, name='Car', weight=300}
+

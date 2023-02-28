@@ -2,6 +2,7 @@ package data;
 
 import java.util.Objects;
 
+
 public abstract class Product {
     private long id;
     private String name;

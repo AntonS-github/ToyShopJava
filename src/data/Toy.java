@@ -2,6 +2,7 @@ package data;
 
 import java.util.Objects;
 
+
 public class Toy extends Product {
 
     private static long countToys;

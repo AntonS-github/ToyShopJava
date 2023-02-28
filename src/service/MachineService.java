@@ -33,6 +33,7 @@ public class MachineService {
         machine.loadProducts(list);
     }
 
+
     public List<Machine> getMachines() {
         return machines;
     }
